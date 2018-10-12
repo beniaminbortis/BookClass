@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1538428437 source:c:\users\mushislove\desktop\splab1\main.cpp
+	<iostream>
+	<cstring>
+	"Carte.h"
+	"Cuprins.h"
+	"Autor.h"
+	"Capitol.h"
+	"Subcapitol.h"
+
+1538427116 c:\users\mushislove\desktop\splab1\carte.h
+
+1538427116 source:c:\users\mushislove\desktop\splab1\carte.cpp
+	"Carte.h"
+	<cstring>
+
+1538427173 source:c:\users\mushislove\desktop\splab1\autor.cpp
+	"Autor.h"
+	<cstring>
+
+1538427172 c:\users\mushislove\desktop\splab1\autor.h
+	<cstring>
+
+1538427261 source:c:\users\mushislove\desktop\splab1\capitol.cpp
+	"Capitol.h"
+	<cstring>
+
+1538427261 c:\users\mushislove\desktop\splab1\capitol.h
+	<cstring>
+
+1538427853 c:\users\mushislove\desktop\splab1\subcapitol.h
+
+1538427900 source:c:\users\mushislove\desktop\splab1\subcapitol.cpp
+	"Subcapitol.h"
+	<cstring>
+
+1538428476 c:\users\mushislove\desktop\splab1\cuprins.h
+
+1538428446 source:c:\users\mushislove\desktop\splab1\cuprins.cpp
+	"Cuprins.h"
+	<cstring>
+
